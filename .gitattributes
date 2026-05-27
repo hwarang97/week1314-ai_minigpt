@@ -1,0 +1,19 @@
+# Normalize text files to LF for all platforms.
+* text=auto eol=lf
+
+# Do not apply line-ending conversion to binary/data files.
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.pdf binary
+*.zip binary
+*.gz binary
+*.tar binary
+*.tgz binary
+*.npz binary
+*.npy binary
+*.idx binary
+*.idx1-ubyte binary
+*.idx3-ubyte binary
