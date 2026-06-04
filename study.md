@@ -10,3 +10,6 @@
 
 ## 4장 학습
 - [왜 BatchNorm 대신 LayerNorm을 썼을까?](https://app.notion.com/p/BatchNorm-LayerNorm-371b3160e4c080828d13ed1abfb6d5a4)
+
+## BPE 학습
+- [UNK 토큰와 BPE은 어떤 관계가 있을까?](https://app.notion.com/p/UNK-BPE-375b3160e4c08008a348d3acda17af8a)
